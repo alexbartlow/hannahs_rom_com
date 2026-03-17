@@ -1,3 +1,8 @@
+---
+title: "Chapter 6: The Notebook"
+weight: 6
+---
+
 # Chapter 6: The Notebook
 
 The days have shape now.

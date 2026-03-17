@@ -19,7 +19,12 @@ The problem: Captain has separation anxiety so severe he can't be alone for more
 
 ## Read the Chapters
 
-{{< chapters >}}
+- [Chapter 1](/chapters/chapter_01/)
+- [Chapter 2](/chapters/chapter_02/)
+- [Chapter 3](/chapters/chapter_03/)
+- [Chapter 4](/chapters/chapter_04/)
+- [Chapter 5](/chapters/chapter_05/)
+- [Chapter 6](/chapters/chapter_06/)
 
 ---
 

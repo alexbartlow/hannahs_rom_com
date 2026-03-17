@@ -1,3 +1,8 @@
+---
+title: "Chapter 1: The Call"
+weight: 1
+---
+
 # Chapter 1: The Call
 
 The corgi in Recovery Room B has had a very expensive day and won't stop screaming about it.

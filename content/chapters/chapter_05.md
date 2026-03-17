@@ -1,3 +1,8 @@
+---
+title: "Chapter 5: The Routine"
+weight: 5
+---
+
 # Chapter 5: The Routine
 
 By Wednesday of the second week, the mornings have a rhythm.

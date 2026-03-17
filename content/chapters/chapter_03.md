@@ -1,3 +1,8 @@
+---
+title: "Chapter 3: The Negotiation"
+weight: 3
+---
+
 # Chapter 3: The Negotiation
 
 I wake up to pins and needles and the smell of coffee.

@@ -1,3 +1,8 @@
+---
+title: "Chapter 4: The Handoff"
+weight: 4
+---
+
 # Chapter 4: The Handoff
 
 The sticky note is in Nora's handwriting. Precise. Urgent in the way that only someone very organized can be urgent.

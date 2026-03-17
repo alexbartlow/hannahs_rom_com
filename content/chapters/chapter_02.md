@@ -1,3 +1,8 @@
+---
+title: "Chapter 2: The Pitch"
+weight: 2
+---
+
 # Chapter 2: The Pitch
 
 The blank Google Doc has been blank for forty-five minutes, which is a personal record. I've stared at blank pages before—plenty of them, increasingly, over the last six months—but there was usually at least the ghost of an idea somewhere in the white space. A headline hovering like a half-remembered dream. A phrase that might become something if I let it sit long enough.

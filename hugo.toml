@@ -1,4 +1,4 @@
-baseURL = 'https://<your-github-username>.github.io/hannahs_rom_com/'
+baseURL = 'https://alexbartlow.github.io/hannahs_rom_com/'
 languageCode = 'en-us'
 title = "The Worst Haiku You've Ever Heard"
 theme = 'ananke'
