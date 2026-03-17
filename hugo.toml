@@ -1,0 +1,8 @@
+baseURL = 'https://<your-github-username>.github.io/hannahs_rom_com/'
+languageCode = 'en-us'
+title = "The Worst Haiku You've Ever Heard"
+theme = 'ananke'
+
+[params]
+  author = 'Alex'
+  description = 'A Rom-Com Novella - featuring Nora, Eli, and Captain the anxious Great Dane'
